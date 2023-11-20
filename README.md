@@ -7,7 +7,7 @@
 </p>
 
 👩‍💻 I’m Computer Science student at the University of Kelaniya, Sri Lanka.
-<br>🧠 I'm currently learning flutter and spring-boot
+<br>🧠 I'm currently learning python and web development.
 <br>
 👯 I’m looking to collaborate on
 <br>
