@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Imesha Dilshani</h1>
+<h1 align="center">Hi 👋, I'm Nishadi Sasanthika</h1>
 <h2 align="center">Still Learning.....</h2>
 
 <!-- Interactive GIF -->
@@ -34,5 +34,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=imeshadilshani&show_icons=true&locale=en&layout=compact" alt="imeshadilshani" /></p>
 
 
----
-[![](https://visitcount.itsvg.in/api?id=ImeshaDilshani&icon=0&color=0)](https://visitcount.itsvg.in)
+
