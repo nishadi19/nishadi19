@@ -3,7 +3,7 @@
 
 <!-- Interactive GIF -->
 <p align="center">
-  <img width="750" src="  https://www.skedler.com/blog/wp-content/uploads/2019/10/Security_Intelligence_Data.jpg " alt="codingGirl">
+  <img width="750" src="https://th.bing.com/th/id/OIP.7wWyDcxzuYbfwY1ZBB4LXwAAAA?rs=1&pid=ImgDetMain" alt="codingGirl">
 </p>
 
 👩‍💻 I’m Computer Science student at the University of Kelaniya, Sri Lanka.
