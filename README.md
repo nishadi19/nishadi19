@@ -3,7 +3,7 @@
 
 <!-- Interactive GIF -->
 <p align="center">
-  <img width="750" src="https://miro.medium.com/max/1600/0*K2WLMTExLyida7OR.gif" alt="codingGirl">
+  <img width="750" src="https://www.bing.com/images/search?view=detailV2&ccid=ezcbbwL3&id=761265597F72EEDD186F81AA610201BEC1DA93AF&thid=OIP.ezcbbwL3y1iKIr3s_uX2egHaG4&mediaurl=https%3A%2F%2Fmedia-exp1.licdn.com%2Fdms%2Fimage%2FC4D22AQFHhyZPnAr1bg%2Ffeedshare-shrink_2048_1536%2F0%2F1660235243769%3Fe%3D2147483647%26v%3Dbeta%26t%3DTvBRL5w7IL4IcVRhdqxet3645NoUKumKwbiwu2lzOpY&exph=475&expw=511&q=animated+coding+gif&simid=608031270773083237&form=IRPRST&ck=8193DAD9DBFC952442D9C1DC9CCDEE1B&selectedindex=2&ajaxhist=0&ajaxserp=0&pivotparams=insightsToken%3Dccid_YVy3fJgt*cp_AD006B699C96A18827B2F3CAC0BE2BD9*mid_44EBC5E6558907E466648F0863BDDA9F762ACC95*simid_608038769795609002*thid_OIP.YVy3fJgthyB792kcUcny1QHaIG&vt=0&sim=11&iss=VSI&ajaxhist=0&ajaxserp=0" alt="codingGirl">
 </p>
 
 👩‍💻 I’m Computer Science student at the University of Kelaniya, Sri Lanka.
