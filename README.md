@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Nishadi Sasanthika</h1>
-<h2 align="center">Still Learning.....</h2>
 
 <!-- Interactive GIF -->
 <p align="center">
